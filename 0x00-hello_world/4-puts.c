@@ -1,26 +1,22 @@
 #!/bin/bash
-#include <stdio.h>
+#include <stdio.h> 
 
-
-
-/**
+/** 
  *
- * * main - Printing
+ *  * main - Entry point 
  *
- * *
+ *   * 
  *
- * * Return: Always 0 (Successful)
+ *    * Return: Always 0 (Success) 
  *
- * */
+ *     */ 
 
-int main(void)
+int main(void) 
 
-{
+{ 
 
-	puts("\"Programming is like building a multilingual
+	        puts("\"Programming is like building a multilingual puzzle"); 
 
-			puzzle");
-
-	return (0);
+		        return (0); 
 
 }
